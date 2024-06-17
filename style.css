@@ -1,0 +1,36 @@
+.owl-carousel .item {
+    font-size: 20px;
+    color: #3c3c3c;
+    text-align: center;
+    padding: 15px;
+        padding-bottom: 0px;
+}
+.owl-dots{
+display: none !important;
+}
+.owl-carousel .owl-item img {
+  width: 64px;
+  height: 64px;
+  margin: auto;
+    margin-bottom: 20px;
+}
+      .custom-nav {
+        text-align: center;
+    width: 154px;
+    margin: auto;
+    background: #e1ecff;
+    padding: 10px 0px;
+    border-radius: 50px;
+      }
+      .custom-nav button {
+    background-color: transparent;
+    border: 3px solid #829ff9;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin: 0px 17px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 800;
+    color: #829ff9;
+}
